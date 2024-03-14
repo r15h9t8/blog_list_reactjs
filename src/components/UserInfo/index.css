@@ -1,0 +1,26 @@
+/* Write your CSS code here */
+.profile {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.image {
+  height: 60px;
+  width: 60px;
+  border-radius: 50%;
+}
+
+.head {
+  font-size: 14px;
+  font-family: 'Roboto';
+  font-weight: bold;
+  color: #12022f;
+}
+
+.para {
+  font-size: 14px;
+  font-family: 'Roboto';
+  color: #616e7c;
+}
